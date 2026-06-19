@@ -67,6 +67,6 @@ Here are some ideas to get you started:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)](https://uvsrahul1234.github.io/Portfolio/)
 
 <p align="center">
-  *Let's discuss how I can contribute to your team's AI initiatives*<br>
+  <i>Let's discuss how I can contribute to your team's AI initiatives</i><br>
   <code>while(alive) { learn(); build(); optimize(); }</code>
 </p>
