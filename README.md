@@ -61,9 +61,9 @@ Here are some ideas to get you started:
 ---
 
 ### 🤝 Let's Connect & Collaborate!
-- **LinkedIn:** [Your Name](https://linkedin.com/in/your-username)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **Portfolio/Website:** [yourportfolio.com](https://yourportfolio.com)
+- **LinkedIn:** [click here](www.linkedin.com/in/rahul-unnam)
+- **Email:** [uvsrahul1234@gmail.com](mailto:uvsrahul1234@gmail.com)
+- **Portfolio/Website:** [portfolio](https://uvsrahul1234.github.io/Portfolio/)
 
 <p align="center">
   <code>while(alive) { learn(); build(); optimize(); }</code>
