@@ -61,9 +61,10 @@ Here are some ideas to get you started:
 ---
 
 ### 🤝 Let's Connect & Collaborate!
-- **LinkedIn:** [click here](www.linkedin.com/in/rahul-unnam)
-- **Email:** [uvsrahul1234@gmail.com](mailto:uvsrahul1234@gmail.com)
-- **Portfolio/Website:** [portfolio](https://uvsrahul1234.github.io/Portfolio/)
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)](https://yourportfolio.com)
 
 <p align="center">
   <code>while(alive) { learn(); build(); optimize(); }</code>
