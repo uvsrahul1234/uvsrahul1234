@@ -46,13 +46,13 @@ Here are some ideas to get you started:
 
 ### 📈 What I'm Working On / Featured Projects
 
-#### 🤖 [Project Name, e.g., ARM AI Agent]
+#### 🤖 [ARM AI Agent]
 *A modular Python backend designed to handle complex state transitions for autonomous software engineering tasks.*
 - Built using **FastAPI** and **LangGraph** to manage multi-agent orchestrations.
 - Implemented robust automated test suites to ensure reliable execution.
 - *Tech: Python, LangGraph, FastAPI, Docker*
 
-#### 📊 [Project Name, e.g., Air Quality Forecasting / SciML]
+#### 📊 [Air Quality Forecasting / SciML]
 *Applying Physics-Informed Neural Networks (PINNs) and LSTMs to environmental datasets.*
 - Benchmarked machine learning architectures for predictive accuracy.
 - Optimized multi-variable loss functions for complex time-series data.
@@ -67,6 +67,6 @@ Here are some ideas to get you started:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)](https://uvsrahul1234.github.io/Portfolio/)
 
 <p align="center">
-  Let's discuss how I can contribute to your team's AI initiatives
+  Let's discuss how I can contribute to your team's AI initiatives<br>
   <code>while(alive) { learn(); build(); optimize(); }</code>
 </p>
