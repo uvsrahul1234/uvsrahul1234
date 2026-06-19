@@ -62,10 +62,11 @@ Here are some ideas to get you started:
 
 ### 🤝 Let's Connect & Collaborate!
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rahul-unnam)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uvsrahul1234@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)](https://uvsrahul1234.github.io/Portfolio/)
 
 <p align="center">
+  Let's discuss how I can contribute to your team's AI initiatives
   <code>while(alive) { learn(); build(); optimize(); }</code>
 </p>
