@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🚀 About Me
-- 🧠 Engineering at the intersection of robust backend systems and autonomous AI execution.
+- 🧠 love to create robust backend systems and autonomous AI execution.
 - 🛠️ Deeply interested in **Scientific Machine Learning (SciML)**, data pipelines, and building modular, state-driven **agentic software workflows**.
 - 🤝 **Focus:** Writing clean, scalable architecture, contributing to impactful open-source tools, and leaving codebases better than I found them.
 - 💬 Ask me about FastAPI, data warehousing, LangGraph, or optimizing workflows.
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 | **Backend & Architecture** | Python, FastAPI, Java, RESTful APIs, System Design, Microservices |
 | **Data & Cloud Infrastructure** | AWS (Redshift, Glue, Lambda), SQL, ETL/ELT Pipelines, Terraform, Database Normalization |
 | **AI & Machine Learning** | PyTorch, SciML (PINNs, LSTMs), LangGraph, LLMs, Vector Embeddings |
-| **Tools & DevOps** | Git, Docker, CI/CD Pipelines, Linux |
+| **Tools & DevOps** | Git, Docker, Jenkins, CI/CD Pipelines, Linux, kubernetes |
 
 ---
 
