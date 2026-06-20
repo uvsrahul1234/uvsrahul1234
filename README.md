@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Venkata Sai Rahul Unnam 👋
 
 <p align="center">
-  <strong>Backend Engineer | Data & Cloud Infrastructure | AI/ML Builder</strong>
+  <strong>AI/ML Engineer | Data & Cloud Infrastructure | Backend Engineer</strong>
 </p>
 
 <p align="center">
